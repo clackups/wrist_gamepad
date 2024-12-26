@@ -3,7 +3,7 @@
 ![gamepad top view](img01.jpeg)
 
 This is a gamepad I designed for a disabled colleague who cannot bend
-his fingers due to a spinal cord injury. The analog joystic is easy to
+his fingers due to a spinal cord injury. The analog joystick is easy to
 move with the fingertips, and four buttons can be pressed by the
 wrist.
 
