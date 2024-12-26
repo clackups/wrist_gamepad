@@ -33,7 +33,7 @@ Parts list:
 
 * KY-023 Dual Axis Joystick module
   ([1](https://www.amazon.com/dp/B0BPGRN48J),
-  [2](https://www.aliexpress.com/item/2251832715984578.html).
+  [2](https://www.aliexpress.com/item/2251832715984578.html)).
 
 * 4x M2.5*12 screws, 4x M2.5 nuts and 4x M2.5 washers.
 
@@ -59,10 +59,13 @@ GP26 to X-axis, and GP27 to Y-axis. Other GPIO pins are already wired
 to their default mapping.
 
 
-![gamepad top view](img02.jpeg)
-![gamepad top view](img03.jpeg)
-![gamepad top view](img04.jpeg)
+![joystick close-up](img02.jpeg)
 
+![rp2040 and joystick wiring](img03.jpeg)
+
+![buttons wiring](img04.jpeg)
+
+![bottom view](img05.jpeg)
 
 
 ## Copyright and license
