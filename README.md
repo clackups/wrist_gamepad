@@ -59,6 +59,9 @@ GP26 to X-axis, and GP27 to Y-axis. Other GPIO pins are already wired
 to their default mapping.
 
 
+![gamepad top view](img01.jpeg)
+![gamepad top view](img02.jpeg)
+![gamepad top view](img03.jpeg)
 
 
 
